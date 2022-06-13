@@ -6,7 +6,7 @@
  * Side Public License, v 1.
  */
 
-/** Elasticsearch Command Line Interface. */
+
 module org.elasticsearch.cli {
     requires jopt.simple;
     requires org.elasticsearch.base;
